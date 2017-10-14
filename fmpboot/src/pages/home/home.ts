@@ -9,6 +9,7 @@ export class HomePage {
 
   constructor(public navCtrl: NavController) {
     console.log('I am Home Page');
+    console.log('I am Home Page');
   }
 
 }
